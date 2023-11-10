@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset = "UTF-8">
+	<title> Advanced HTML Page </title>
+</head>
+<body>
+<p> Cristiano Ronaldo is the Greatest Of All Time.
+<img src = "WhatsApp Image 2023-10-14 at 23.35.24_e24062f7.jpg" width = 50%>
+<ul>
+	<li>Calma</li>
+	<li>Siuuu</li>
+</ul>
+<blackquote> Talent without Hardwork is Nothing - Cristiano </blackquote>
+<details> Summary </details>
